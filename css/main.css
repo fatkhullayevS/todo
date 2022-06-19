@@ -1,0 +1,18 @@
+.result-blok{
+    height: 400px !important;
+}
+
+.delete-button{
+    background-color: darkred;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 8px;
+    border: none;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.button{
+    margin-top: 350px !important;
+    margin-left: 150px !important;
+}
